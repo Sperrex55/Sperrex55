@@ -28,9 +28,9 @@ Ben Gümüşhane Meslek Yüksekokulu Bilgisayar Programcılığı öğrencisiyim
 
 ## 📈 GitHub İstatistikleri
 
-![Arda'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=arda-irmak&show_icons=true&theme=radical)
+![Arda'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Sperrex55&show_icons=true&theme=radical)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=arda-irmak&layout=compact&theme=radical)
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Sperrex55&layout=compact&theme=radical)
 
 ## 📫 Bana Ulaşın
 
