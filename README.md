@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba,+ben+Arda+Irmak!;Yazılım+Geliştiricisi+ve+Web+Geliştirici&color=F7DF1E&size=24" />
+# <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba,+ben+Arda+Irmak!;Yazılım+Geliştiricisi+ve+Web+Geliştiricisiyim&color=F7DF1E&size=24" />
 
 
 ## 💻 Hakkımda
