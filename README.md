@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba,+ben+Arda+Irmak!;Yazılım+Geliştiricisi+ve+Web+Geliştiricisiyim&color=F7DF1E&size=15" />
+# <img src="https://readme-typing-svg.herokuapp.com/?lines=Merhaba,+ben+Arda+Irmak!;Yazılım+Geliştiricisi+ve+Web+Geliştiricisiyim&color=F7DF1E&size=20" />
 
 
 ## 💻 Hakkımda
@@ -21,10 +21,11 @@ Ben Gümüşhane Meslek Yüksekokulu Bilgisayar Programcılığı öğrencisiyim
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4479A1?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
-## 📚 Şu An Üzerinde Çalıştıklarım
+## 📌 Öne Çıkan Projelerim
 
-- 🏥 **Hastane Randevu Yönetim Sistemi** (Python Flask, SQLAlchemy, SocketIO)
-- 🌐 **Kişisel Proje ve Portföy Sitesi**
+- [🏥 Hastane Randevu Sistemi](https://github.com/Sperrex55/hastane-randevu)
+
+
 
 
 ## 📈 GitHub İstatistikleri
