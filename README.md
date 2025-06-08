@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @Sperrex55
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Merhaba, ben Arda Irmak!
 
-<!---
-Sperrex55/Sperrex55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Hakkımda
+
+Ben Gümüşhane Meslek Yüksekokulu Bilgisayar Programcılığı öğrencisiyim. Yazılım geliştirme alanında kendimi sürekli geliştiriyor, özellikle web geliştirme ve Python tabanlı projeler üzerine çalışıyorum.
+
+## 🚀 İlgi Alanlarım
+
+- Web Uygulamaları (HTML, CSS, JavaScript, Flask)
+- Back-end Geliştirme (Python, Flask, SQLAlchemy)
+- Veritabanı Yönetimi
+- Yazılım Proje Geliştirme ve Takım Çalışması
+
+
+## 📚 Şu An Üzerinde Çalıştıklarım
+
+- Hastane Randevu Yönetim Sistemi (Python Flask, SQLAlchemy, SocketIO)
+- Kişisel proje ve portföy sitesi
+
+## 📫 Bana Ulaşın
+
+- 📧 E-posta: ardairmak5555@gmail.com
+
+
+---
+
+> “Gelişmek için asla durma.”
+
