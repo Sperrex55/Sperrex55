@@ -42,7 +42,7 @@ Ben **Gümüşhane Meslek Yüksekokulu Bilgisayar Programcılığı** öğrencis
 
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Sperrex55&layout=compact&theme=radical)  
 
-![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=Sperrex55&color=blue)
+
 
 ---
 
