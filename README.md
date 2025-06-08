@@ -32,6 +32,8 @@ Ben Gümüşhane Meslek Yüksekokulu Bilgisayar Programcılığı öğrencisiyim
 
 ![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Sperrex55&layout=compact&theme=radical)
 
+![Ziyaretçi Sayısı](https://komarev.com/ghpvc/?username=Sperrex55&color=blue)
+
 ## 📫 Bana Ulaşın
 
 - 📧 E-posta: ardairmak5555@gmail.com
