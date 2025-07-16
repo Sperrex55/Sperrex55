@@ -1,7 +1,8 @@
 <!-- Başlık ve Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0FFFC0&center=true&vCenter=true&width=600&lines=Merhaba,+Ben+Arda+Irmak!;Full+Stack+Developer;Flask,+SQLAlchemy,+Socket.IO+Uzmanı" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0FFFC0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Merhaba%2C+Ben+Arda+Irmak!;Full+Stack+Developer+%7C+Flask%2C+SQLAlchemy%2C+Socket.IO" alt="Typing SVG" />
 </h1>
+
 
 
 <p align="center">
