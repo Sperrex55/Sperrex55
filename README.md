@@ -1,15 +1,15 @@
-Şunu dedin:
 <h1 align="center">👋 Merhaba, Ben Arda Irmak!</h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flask,+SQLAlchemy,+Socket.IO+Uzmanı;Gerçek+Zamanlı+Web+Uygulamaları+Geliştiriyorum;HTML,+CSS,+JavaScript,+Python,+Bootstrap&color=0FFFC0&size=22" alt="Kayan Yazı" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flask,+SQLAlchemy,+Socket.IO+Uzmanı;Gerçek+Zamanlı+Web+Uygulamaları+Geliştiriyorum;HTML,+CSS,+JavaScript,+Python,+Bootstrap&color=0FFFC0&size=18&width=800&center=true&pause=1500&repeat=true"
+    alt="Kayan Yazı"
+  />
 </h1>
-
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>g
+</p>
 
 ---
 
@@ -82,9 +82,9 @@ Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Ö
 ## 📫 Bana Ulaşın
 
 <p align="center">
-  <a href="mailto:ardairmak@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ardairmak5555@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ardairmak"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://codeport.dev"><img src="https://img.shields.io/badge/-Web%20Site-24292F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://portfoyum.onrender.com"><img src="https://img.shields.io/badge/-Web%20Site-24292F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
