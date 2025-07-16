@@ -74,7 +74,7 @@ Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Ö
   Kullanıcılar servis randevusu oluşturabilir, admin talepleri yönetebilir. Gerçek zamanlı teknik hizmet takibi.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" />
 </p>
 
 
