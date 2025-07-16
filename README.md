@@ -1,17 +1,17 @@
 <!-- Başlık ve Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0FFFC0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Merhaba%2C+Ben+Arda+Irmak!;Full+Stack+Developer+%7C+Flask%2C+SQLAlchemy%2C+Socket.IO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0FFFC0&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Merhaba%2C+Ben+Arda+Irmak;Full+Stack+Developer;Flask+%7C+SQLAlchemy+%7C+Socket.IO+Uzmanı" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI1MTMyYmFlNjhiNzFjZmNlM2Y0ZGVkYjQ3ODZhNjAzM2EyNTY0ZCZjdD1n/XH2FK6ijA75pHa9AOq/giphy.gif" width="320" />
+  <img src="https://raw.githubusercontent.com/ArdaIrmak/assets/main/typing-dev.gif" width="300" />
 </p>
 
 ---
 
 ## 🧠 Hakkımda
 
-<img align="right" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" />
+<img align="right" width="270" src="https://raw.githubusercontent.com/ArdaIrmak/assets/main/developer-coding.gif" />
 
 Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Özellikle **gerçek zamanlı sistemler**, **admin panelleri**, ve **dashboard çözümleri** üzerine çalışıyorum.
 
@@ -54,7 +54,7 @@ Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Ö
 - SQLite veritabanı desteği  
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1125546/screenshots/14763692/media/75c78e357cad7d8e5c86cc2c13f7e5e8.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/ArdaIrmak/assets/main/project-medirandevu.gif" width="500" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Ö
   Kullanıcılar servis randevusu oluşturabilir, admin talepleri yönetebilir. Gerçek zamanlı teknik hizmet takibi.
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1125546/screenshots/16520295/media/b34c56cf5d78fe1be330b80b5f206d16.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/ArdaIrmak/assets/main/project-dashboard.gif" width="500" />
 </p>
 
 ---
