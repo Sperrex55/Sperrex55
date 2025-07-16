@@ -1,10 +1,10 @@
-<!-- Başlık ve Tiping Effect -->
+<!-- Başlık ve Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Merhaba%2C+Ben+Arda+Irmak!;Yazılım+Geliştirici+(Full+Stack);Flask%2C+Vue%2C+SocketIO%2C+SQLAlchemy+Uzmanı" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0FFFC0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Merhaba%2C+Ben+Arda+Irmak!;Full+Stack+Developer+%7C+Flask%2C+SQLAlchemy%2C+Socket.IO" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI1MTMyYmFlNjhiNzFjZmNlM2Y0ZGVkYjQ3ODZhNjAzM2EyNTY0ZCZjdD1n/XH2FK6ijA75pHa9AOq/giphy.gif" width="320" />
 </p>
 
 ---
@@ -13,76 +13,65 @@
 
 <img align="right" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" />
 
-Ben **Arda Irmak**, modern ve kullanışlı web uygulamaları geliştiren bir yazılım geliştiricisiyim. Özellikle **gerçek zamanlı sistemler**, **admin panelleri**, ve **tam-stack dashboard çözümleri** ile ilgileniyorum.
+Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Özellikle **gerçek zamanlı sistemler**, **admin panelleri**, ve **dashboard çözümleri** üzerine çalışıyorum.
 
-- ⚙️ Flask, Vue.js, SQLAlchemy, Bootstrap, Socket.IO gibi teknolojilerle projeler geliştiriyorum  
-- 🧩 API, Admin, Auth, Real-time mesajlaşma gibi modülleri baştan sona inşa ediyorum  
-- 🔄 Yazdığım sistemlerde her zaman sade, erişilebilir ve performanslı çözümler üretmeye çalışıyorum  
-- 🚀 Sürekli öğreniyor, daha büyük projelerde yer almak için kendimi geliştiriyorum  
+🔧 Teknik alanlarda üretmeye odaklıyım ve yazılım mühendisliği yolunda emin adımlarla ilerliyorum.
+
+- ⚙️ Flask, SQLAlchemy, Bootstrap, Socket.IO kullanarak projeler geliştiriyorum  
+- 🧠 API, Admin, Auth, Gerçek Zamanlı İletişim sistemleri tasarlıyorum  
+- 🔄 Performanslı ve sade sistemler yazmaya dikkat ediyorum  
+- 🚀 Sürekli gelişmeye ve yeni teknolojileri öğrenmeye açığım
 
 ---
 
 ## 🧰 Teknoloji Yığımım
 
-### 🖥️ Backend
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=fff)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap)
-
-### 🗃️ Veritabanı
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-
-### ⚙️ Diğer
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,bootstrap,sqlite,postgresql,git,vscode,figma" />
+</p>
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardairmak&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmak&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ardairmak&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmak&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🚀 Projelerim
 
-### 🏥 MediRandevu
-Flask ve Socket.IO ile geliştirilen, hasta ve doktorlar arasında **randevu oluşturma**, **onaylama**, ve **canlı mesajlaşma** sağlayan gerçek zamanlı bir sistemdir.  
+### 💬 MediRandevu
+> **Hasta & doktorlar** için gerçek zamanlı randevu ve mesajlaşma sistemi.  
+> Flask + Socket.IO + SQLAlchemy + Bootstrap stack ile geliştirildi.
 
-🧩 Özellikler:  
+🧩 Özellikler:
 - Canlı randevu yönetimi  
-- Admin panel üzerinden duyuru ve kullanıcı yönetimi  
-- SocketIO ile anlık bildirim ve mesajlaşma  
-- SQLite + SQLAlchemy veritabanı sistemi  
+- Admin üzerinden kullanıcı ve duyuru paneli  
+- Socket.IO ile anlık bildirim ve sohbet  
+- SQLite veritabanı desteği  
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/14268/screenshots/14012067/media_management_dashboard.png" width="500" />
+  <img src="https://cdn.dribbble.com/users/1125546/screenshots/14763692/media/75c78e357cad7d8e5c86cc2c13f7e5e8.gif" width="500" />
 </p>
 
 ---
 
-### 📊 CodePort Dashboard *(Yeni)*
-Vue.js ve Flask kullanılarak geliştirilen, **teknik servis** ve **hizmet yönetimi** için optimize edilmiş, kullanıcı ve tekniker panelli bir admin dashboard.
+## 📌 Öne Çıkan Projelerim
 
-🧩 Özellikler:  
-- Kullanıcı-Tekniker özel erişim  
-- Gerçek zamanlı duyuru yayını  
-- Socket.IO destekli teknik servis durumu  
-- Grafikler, animasyonlar, tema değiştirme desteği  
+- [🏥 **Hastane Randevu Sistemi**](https://github.com/Sperrex55/INTProg_RandevuTakipSistemi)  
+  Flask ile geliştirilmiş hasta, doktor ve admin modüllerine sahip randevu takip sistemi.
+
+- [🚌 **G-M Turizm Rezervasyon Sistemi**](https://github.com/Sperrex55/g-m-turizm)  
+  Sefer oluşturma, koltuk seçme ve yönetim paneli ile tam donanımlı yolcu rezervasyon uygulaması.
+
+- [⚙️ **Tamirat Randevu Sistemi**](https://github.com/Sperrex55/tamirat-randevu-sistemi)  
+  Kullanıcılar servis randevusu oluşturabilir, admin talepleri yönetebilir. Gerçek zamanlı teknik hizmet takibi.
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media_management.gif" width="500" />
+  <img src="https://cdn.dribbble.com/users/1125546/screenshots/16520295/media/b34c56cf5d78fe1be330b80b5f206d16.gif" width="500" />
 </p>
 
 ---
@@ -90,7 +79,7 @@ Vue.js ve Flask kullanılarak geliştirilen, **teknik servis** ve **hizmet yöne
 ## 📫 Bana Ulaşın
 
 <p align="center">
-  <a href="mailto:ardairmak@example.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ardairmak@example.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ardairmak"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeport.dev"><img src="https://img.shields.io/badge/-Web%20Site-24292F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
@@ -98,5 +87,5 @@ Vue.js ve Flask kullanılarak geliştirilen, **teknik servis** ve **hizmet yöne
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0fffc0&height=100&section=footer"/>
 </p>
