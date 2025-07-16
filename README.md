@@ -4,18 +4,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArdaIrmak/assets/main/typing-dev.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
 ## 🧠 Hakkımda
 
-<img align="right" width="270" src="https://raw.githubusercontent.com/ArdaIrmak/assets/main/developer-coding.gif" />
+<img align="right" width="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" />
 
 Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Özellikle **gerçek zamanlı sistemler**, **admin panelleri**, ve **dashboard çözümleri** üzerine çalışıyorum.
-
-🔧 Teknik alanlarda üretmeye odaklıyım ve yazılım mühendisliği yolunda emin adımlarla ilerliyorum.
 
 - ⚙️ Flask, SQLAlchemy, Bootstrap, Socket.IO kullanarak projeler geliştiriyorum  
 - 🧠 API, Admin, Auth, Gerçek Zamanlı İletişim sistemleri tasarlıyorum  
@@ -44,6 +42,7 @@ Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Ö
 ## 🚀 Projelerim
 
 ### 💬 MediRandevu
+
 > **Hasta & doktorlar** için gerçek zamanlı randevu ve mesajlaşma sistemi.  
 > Flask + Socket.IO + SQLAlchemy + Bootstrap stack ile geliştirildi.
 
@@ -54,7 +53,7 @@ Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Ö
 - SQLite veritabanı desteği  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArdaIrmak/assets/main/project-medirandevu.gif" width="500" />
+  <img src="https://i.pinimg.com/originals/58/7f/8b/587f8ba7f72756980be6f6c55e37d42d.gif" width="500" />
 </p>
 
 ---
@@ -71,7 +70,7 @@ Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Ö
   Kullanıcılar servis randevusu oluşturabilir, admin talepleri yönetebilir. Gerçek zamanlı teknik hizmet takibi.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArdaIrmak/assets/main/project-dashboard.gif" width="500" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500" />
 </p>
 
 ---
