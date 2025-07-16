@@ -1,9 +1,48 @@
 <h1 align="center">👋 Merhaba, Ben Arda Irmak!</h1>
 
 <!-- Kayan yazı efektiyle tanım -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0FFFC0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flask,+SQLAlchemy,+Socket.IO+Uzmanı;Gerçek+Zamanlı+Web+Uygulamaları+Geliştiriyorum;HTML,+CSS,+JavaScript,+Python,+Bootstrap" alt="Typing SVG" />
-</p>
+<h2 style="text-align:center; font-family: 'Fira Code', monospace; color:#0FFFC0; font-size:22px; overflow:hidden; white-space: nowrap; width: 600px; margin: auto;">
+  <span id="typing-text"></span>
+</h2>
+
+<script>
+  const lines = [
+    "Full Stack Developer",
+    "Flask, SQLAlchemy, Socket.IO Uzmanı",
+    "Gerçek Zamanlı Web Uygulamaları Geliştiriyorum",
+    "HTML, CSS, JavaScript, Python, Bootstrap"
+  ];
+  const typingSpeed = 100;
+  const pauseTime = 1500;
+  let lineIndex = 0;
+  let charIndex = 0;
+  let isDeleting = false;
+  const typingElement = document.getElementById('typing-text');
+
+  function type() {
+    const currentLine = lines[lineIndex];
+    if (!isDeleting) {
+      typingElement.textContent = currentLine.substring(0, charIndex + 1);
+      charIndex++;
+      if (charIndex === currentLine.length) {
+        isDeleting = true;
+        setTimeout(type, pauseTime);
+        return;
+      }
+    } else {
+      typingElement.textContent = currentLine.substring(0, charIndex - 1);
+      charIndex--;
+      if (charIndex === 0) {
+        isDeleting = false;
+        lineIndex = (lineIndex + 1) % lines.length;
+      }
+    }
+    setTimeout(type, typingSpeed);
+  }
+
+  type();
+</script>
+
 
 
 <p align="center">
