@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba, Ben Arda Irmak!</h1>
+<h1 align="center">👋 Merhaba, Ben Arda!</h1>
 
 <h1 align="center">
   <img
