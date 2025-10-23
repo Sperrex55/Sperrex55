@@ -70,7 +70,7 @@ Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Ö
 - [🚌 **G-M Turizm Rezervasyon Sistemi**](https://github.com/Sperrex55/g-m-turizm)  
   Sefer oluşturma, koltuk seçme ve yönetim paneli ile tam donanımlı yolcu rezervasyon uygulaması.
 
-- [⚙️ **Tamirat Randevu Sistemi**](https://github.com/Sperrex55/tamirat-randevu-sistemi)  
+- [⚙️ **Tamirat Randevu Sistemi**](https://github.com/Sperrex55/tamirat_randevu_sistemi.git)  
   Kullanıcılar servis randevusu oluşturabilir, admin talepleri yönetebilir. Gerçek zamanlı teknik hizmet takibi.
 
 <p align="center">
