@@ -2,8 +2,7 @@
 
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flask,+SQLAlchemy,+Socket.IO+Uzmanı;Gerçek+Zamanlı+Web+Uygulamaları+Geliştiriyorum;HTML,+CSS,+JavaScript,+Python,+Bootstrap&color=0FFFC0&size=18&width=800&center=true&pause=1500&repeat=true"
-    alt="Kayan Yazı"
+    src="./path/to/your/static_image.svg"      alt="Full Stack Developer"
   />
 </h1>
 
@@ -85,8 +84,6 @@ Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Ö
 
 <p align="center">
   <a href="mailto:ardairmak5555@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Sperrex55"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="[LINKEIDIN_URL_SİZE_AİT_OLAN_LINK]"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
