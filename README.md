@@ -1,10 +1,15 @@
 <h1 align="center">👋 Merhaba, Ben Arda!</h1>
 
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flask,+SQLAlchemy,+Socket.IO+Uzmanı;Gerçek+Zamanlı+Web+Uygulamaları+Geliştiriyorum;HTML,+CSS,+JavaScript,+Python,+Bootstrap&color=0FFFC0&size=18&width=800&center=true&pause=1500&repeat=true"
-    alt="Kayan Yazı"
-  />
+
+  <img
+
+    src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Flask,+SQLAlchemy,+Socket.IO+Uzmanı;Gerçek+Zamanlı+Web+Uygulamaları+Geliştiriyorum;HTML,+CSS,+JavaScript,+Python,+Bootstrap&color=0FFFC0&size=18&width=800&center=true&pause=1500&repeat=true"
+
+    alt="Kayan Yazı"
+
+  />
+
 </h1>
 
 <p align="center">
@@ -61,8 +66,8 @@ Ben **Arda Irmak**, modern ve kullanıcı dostu yazılımlar geliştiriyorum. Ö
 </p>
 
 <p align="center">
-  <a href="[GERÇEK_DEMO_LİNKİ_BURAYA]"><img src="https://img.shields.io/badge/Canlı%20Demo-blue?style=for-the-badge&logo=firefox" /></a>
-  <a href="https://github.com/Sperrex55/MediRandevu_Project"><img src="https://img.shields.io/badge/GitHub%20Repo-black?style=for-the-badge&logo=github" /></a>
+  
+  <a href="[https://github.com/Sperrex55/MediRandevu_Project](https://github.com/Sperrex55/INTProg_RandevuTakipSistemi)"><img src="https://img.shields.io/badge/GitHub%20Repo-black?style=for-the-badge&logo=github" /></a>
 </p>
 
 <br>
