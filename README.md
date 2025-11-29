@@ -177,14 +177,23 @@ const arda = {
 
 ---
 
-## 📫 Benimle İletişime Geçin
+---
+
+## 🤝 İletişim ve Bağlantılar
+
+<p align="center">
+  Benimle projeler, iş birlikleri için iletişime geçebilirsiniz.
+</p>
 
 <p align="center">
   <a href="mailto:ardairmak5555@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/arda-ırmak-919879317?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&customColorList=0,2,23,30" width="100%"/>
 </div>
