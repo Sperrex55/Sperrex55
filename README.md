@@ -1,87 +1,166 @@
-<h1 align="center">👋 Merhaba, Ben Arda!</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <h1>👋 Merhaba, Ben Arda Irmak!</h1>
+  <h3>Backend Developer & Computer Programming Student</h3>
+  
+  <p>
+    <a href="https://github.com/ardairmk55">
+      <img src="https://komarev.com/ghpvc/?username=ardairmk55&label=Profile%20Views&color=0e75b6&style=flat" alt="oview" />
+    </a>
+  </p>
+</div>
+
+---
+
+## 👨‍💻 Hakkımda
+
+```javascript
+const arda = {
+    education: "Gümüşhane University 🎓",
+    department: "Computer Programming (2nd Year)",
+    code: ["Python", "C#", "JavaScript"],
+    technologies: {
+        backend: ["Django", "Flask", ".NET Core"],
+        frontend: ["HTML5", "CSS3", "Three.js"],
+        database: ["SQLite", "PostgreSQL"]
+    },
+    currentFocus: "Building Real-time Web Apps & Learning Game Dev",
+    motivation: "Turning caffeine into code since 2023 ☕"
+};
+
+<h3 align="center">🚀 Şu An Ne Yapıyorum?</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  🎓 <b>Gümüşhane Üniversitesi</b>'nde akademik eğitimime devam ediyorum.<br>
+  🐍 <b>Python & Django</b> ile gelişmiş web projeleri geliştiriyorum.<br>
+  ⚙️ <b>C#</b> dünyasına adım attım ve kendimi geliştiriyorum.<br>
+  🎮 <b>Three.js</b> ile web tabanlı 3D dünyalar tasarlıyorum.
 </p>
 
 ---
 
-## 🧠 Hakkımda
+## 🛠️ Teknoloji Arsenalim
 
-<img align="right" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" />
-
-Ben **Arda Irmak**, Gümüşhane Üniversitesi Bilgisayar Programcılığı öğrencisiyim. Modern ve kullanıcı dostu yazılımlar geliştiriyorum. 
-
-Özellikle **Backend sistemler**, **Web tabanlı çözümler** ve **Oyun Geliştirme** (Three.js) üzerine yoğunlaşıyorum.
-
-- 🎓 **Eğitim:** Gümüşhane Üniversitesi - Bilgisayar Programcılığı
-- ⚙️ **Stack:** Python, Django, Flask, C#, JavaScript
-- 🧠 **İlgi Alanları:** API, Admin Panelleri, Gerçek Zamanlı Sistemler ve 3D Web
-- 🚀 Sürekli gelişmeye ve yeni teknolojileri öğrenmeye açığım.
-
----
-
-## 🧰 Teknoloji Yığınım
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,django,flask,html,css,js,bootstrap,sqlite,postgresql,git,vscode,figma" />
-</p>
-
----
-
-## 📈 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardairmk55 &show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmk55 &layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🚀 Projelerim
-
-### 💬 MediRandevu
-
-> **Hasta & doktorlar** için gerçek zamanlı randevu ve mesajlaşma sistemi.  
-> Flask + Socket.IO + SQLAlchemy + Bootstrap stack ile geliştirildi.
-
-🧩 **Özellikler:**
-- Canlı randevu yönetimi  
-- Admin üzerinden kullanıcı ve duyuru paneli  
-- Socket.IO ile anlık bildirim ve sohbet  
-- SQLite veritabanı desteği  
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/58/7f/8b/587f8ba7f72756980be6f6c55e37d42d.gif" width="100%" style="max-width:600px" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100%">
+      <h3>💻 Backend & Core</h3>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🎨 Frontend & UI/UX</h3>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>💾 Veritabanı & Araçlar</h3>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📌 Öne Çıkan Diğer Projeler
+## 📊 GitHub İstatistiklerim
 
-- [🏥 **Hastane Randevu Sistemi**](https://github.com/YENI_KULLANICI_ADI/INTProg_RandevuTakipSistemi)  
-  Flask ile geliştirilmiş hasta, doktor ve admin modüllerine sahip randevu takip sistemi.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ardairmk55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmk55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
 
-- [🚌 **G-M Turizm Rezervasyon Sistemi**](https://github.com/YENI_KULLANICI_ADI/g-m-turizm)  
-  Sefer oluşturma, koltuk seçme ve yönetim paneli ile tam donanımlı yolcu rezervasyon uygulaması.
+<br>
 
-- [⚙️ **Tamirat Randevu Sistemi**](https://github.com/YENI_KULLANICI_ADI/tamirat_randevu_sistemi)  
-  Kullanıcılar servis randevusu oluşturabilir, admin talepleri yönetebilir. Gerçek zamanlı teknik hizmet takibi.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" style="max-width:500px" />
-</p>
-
----
-
-## 📫 Bana Ulaşın
-
-<p align="center">
-  <a href="mailto:ardairmak5555@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ardairmk55&theme=tokyonight&no-frame=true&column=7" width="100%" />
+  </a>
+</div>
 
 ---
 
+## 🚀 Öne Çıkan Projelerim
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 MediRandevu</h3>
+      <p align="center">Hasta & doktorlar için gerçek zamanlı sistem.</p>
+      <p>
+        🔴 <b>Özellikler:</b> Canlı randevu, Socket.IO sohbet, Admin paneli.<br>
+        🛠 <b>Stack:</b> Flask, SQLAlchemy, Socket.IO
+      </p>
+      <p align="center">
+        <a href="https://github.com/ardairmk55/INTProg_RandevuTakipSistemi">
+          <img src="https://img.shields.io/badge/Projeye_Git-Kodu_İncele-blue?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚌 G-M Turizm</h3>
+      <p align="center">Otobüs rezervasyon ve biletleme sistemi.</p>
+      <p>
+        🔵 <b>Özellikler:</b> Sefer oluşturma, Koltuk seçimi, Dinamik fiyatlandırma.<br>
+        🛠 <b>Stack:</b> Python, Django, SQLite
+      </p>
+      <p align="center">
+        <a href="https://github.com/ardairmk55/g-m-turizm">
+          <img src="https://img.shields.io/badge/Projeye_Git-Kodu_İncele-blue?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ Tamirat Randevu</h3>
+      <p align="center">Teknik servis takip ve yönetim platformu.</p>
+      <p>
+        🟡 <b>Özellikler:</b> Arıza kaydı, durum takibi, servis yönetimi.<br>
+        🛠 <b>Stack:</b> Python, Flask, HTML/CSS
+      </p>
+      <p align="center">
+        <a href="https://github.com/ardairmk55/tamirat_randevu_sistemi">
+          <img src="https://img.shields.io/badge/Projeye_Git-Kodu_İncele-blue?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 Three.js & AI Art</h3>
+      <p align="center">Web tabanlı 3D denemeler ve AI sanatı.</p>
+      <p>
+        🟣 <b>Özellikler:</b> 3D modeller, interaktif web sahneleri.<br>
+        🛠 <b>Stack:</b> Three.js, JavaScript, Midjourney
+      </p>
+      <p align="center">
+        <a href="https://github.com/ardairmk55">
+          <img src="https://img.shields.io/badge/Profile_Git-İncele-blue?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Benimle İletişime Geçin
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0fffc0&height=100&section=footer"/>
+  <a href="mailto:ardairmak5555@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+</div>
