@@ -4,8 +4,9 @@
   <h1>👋 Merhaba, Ben Arda Irmak!</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33FFCC&center=true&vCenter=true&random=false&width=450&lines=Backend+Developer;Computer+Programming+Student;Python+%26+C%23+Enthusiast;Building+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33FFCC&center=true&vCenter=true&random=false&width=450&lines=Backend+Developer;Computer+Programming+Student;Python+Enthusiast;Building+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
 
   <br/>
 
@@ -127,62 +128,78 @@ const arda = {
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💬 MediRandevu</h3>
-      <p align="center">Hasta & doktorlar için gerçek zamanlı sistem.</p>
-      <p>
-        🔴 <b>Özellikler:</b> Canlı randevu, Socket.IO sohbet, Admin paneli.<br>
-        🛠 <b>Stack:</b> Flask, SQLAlchemy, Socket.IO
+      <p align="center">Hasta & doktorlar için gerçek zamanlı iletişim sistemi.</p>
+      <p align="center">
+        🔴 <b>Özellikler:</b> Canlı randevu, Socket.IO sohbet.<br>
+        <br>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/ardairmk55/INTProg_RandevuTakipSistemi">
-          <img src="https://img.shields.io/badge/Projeye_Git-Kodu_İncele-blue?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Kodu_İncele-Git-blue?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
+
     <td width="50%" valign="top">
       <h3 align="center">🚌 G-M Turizm</h3>
-      <p align="center">Otobüs rezervasyon ve biletleme sistemi.</p>
-      <p>
-        🔵 <b>Özellikler:</b> Sefer oluşturma, Koltuk seçimi, Dinamik fiyatlandırma.<br>
-        🛠 <b>Stack:</b> Python, Django, SQLite
+      <p align="center">Kapsamlı otobüs rezervasyon ve biletleme sistemi.</p>
+      <p align="center">
+        🔵 <b>Özellikler:</b> Sefer oluşturma, koltuk seçimi, biletleme.<br>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/ardairmk55/g-m-turizm">
-          <img src="https://img.shields.io/badge/Projeye_Git-Kodu_İncele-blue?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Kodu_İncele-Git-blue?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">⚙️ Tamirat Randevu</h3>
       <p align="center">Teknik servis takip ve yönetim platformu.</p>
-      <p>
+      <p align="center">
         🟡 <b>Özellikler:</b> Arıza kaydı, durum takibi, servis yönetimi.<br>
-        🛠 <b>Stack:</b> Python, Flask, HTML/CSS
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
       </p>
       <p align="center">
         <a href="https://github.com/ardairmk55/tamirat_randevu_sistemi">
-          <img src="https://img.shields.io/badge/Projeye_Git-Kodu_İncele-blue?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/Kodu_İncele-Git-blue?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
+
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Three.js & AI Art</h3>
-      <p align="center">Web tabanlı 3D denemeler ve AI sanatı.</p>
-      <p>
-        🟣 <b>Özellikler:</b> 3D modeller, interaktif web sahneleri.<br>
-        🛠 <b>Stack:</b> Three.js, JavaScript, Midjourney
+      <h3 align="center">🚀 Gelişim Kapsülü</h3>
+      <p align="center">Kişisel gelişim ve eğitim takip platformu.</p>
+      <p align="center">
+        🟣 <b>Özellikler:</b> İlerleme takibi, içerik yönetimi, kullanıcı paneli.<br>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Education-Platform-orange?style=flat-square" />
       </p>
       <p align="center">
-        <a href="https://github.com/ardairmk55">
-          <img src="https://img.shields.io/badge/Profile_Git-İncele-blue?style=for-the-badge" />
+        <a href="https://github.com/ardairmk55/gelisim_kapsulu">
+          <img src="https://img.shields.io/badge/Kodu_İncele-Git-blue?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
   </tr>
 </table>
 
----
+
+
 
 ---
 
