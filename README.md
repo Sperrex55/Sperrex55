@@ -143,6 +143,7 @@ const arda = {
       </p>
     </td>
 
+<tr>
     <td width="50%" valign="top">
       <h3 align="center">🚌 G-M Turizm</h3>
       <p align="center">Kapsamlı otobüs rezervasyon ve biletleme sistemi.</p>
@@ -179,6 +180,7 @@ const arda = {
       </p>
     </td>
 
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚀 Gelişim Kapsülü</h3>
       <p align="center">Kişisel gelişim ve eğitim takip platformu.</p>
@@ -190,15 +192,13 @@ const arda = {
         <img src="https://img.shields.io/badge/Education-Platform-orange?style=flat-square" />
       </p>
       <p align="center">
-        <a href="https://github.com/ardairmk55/gelisim_kapsulu">
+        <a href="https://github.com/ardairmk55/gelisim_kapsul">
           <img src="https://img.shields.io/badge/Kodu_İncele-Git-blue?style=for-the-badge&logo=github" />
         </a>
       </p>
     </td>
   </tr>
 </table>
-
-
 
 
 ---
