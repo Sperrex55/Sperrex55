@@ -96,15 +96,8 @@ const arda = {
 
 <div align="center">
 
-  <a href="https://github.com/ardairmk55">
-    <img src="https://github-readme-stats.vercel.app/api?username=ardairmk55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  </a>
   
-  <a href="https://github.com/ardairmk55">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmk55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="langs" />
-  </a>
-
-  <br/>
+  
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardairmk55&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="streak" />
 
