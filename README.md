@@ -1,14 +1,32 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVibXlsOHF4cndwNGw5OGl5bHV0aGZzaW94cWF5eXBraG5oYnZ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1RDs6a5a5qN2RjM2N/giphy.gif" width="200" height="auto" />
+
   <h1>👋 Merhaba, Ben Arda Irmak!</h1>
-  <h3>Backend Developer & Computer Programming Student</h3>
-  
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33FFCC&center=true&vCenter=true&random=false&width=450&lines=Backend+Developer;Computer+Programming+Student;Python+%26+C%23+Enthusiast;Building+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <p align="center">
+    <a href="https://github.com/ardairmk55">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+    <a href="mailto:ardairmak5555@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
+  </p>
+
   <p>
-    <a href="[https://github.com/ardairmk55](https://github.com/ardairmk55)">
-      <img src="[https://komarev.com/ghpvc/?username=ardairmk55&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=ardairmk55&label=Profile%20Views&color=0e75b6&style=flat)" alt="oview" />
+    <a href="https://github.com/ardairmk55">
+      <img src="https://komarev.com/ghpvc/?username=ardairmk55&label=Profile%20Views&color=0e75b6&style=flat" alt="oview" />
     </a>
   </p>
 </div>
+
+
+
 
 ---
 
