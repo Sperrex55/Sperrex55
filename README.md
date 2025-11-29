@@ -97,10 +97,11 @@ const arda = {
 <div align="center">
 
   <a href="https://github.com/ardairmk55">
-    <img src="https://github-readme-stats.vercel.app/api?username=ardairmk55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ardairmk55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
   </a>
+  
   <a href="https://github.com/ardairmk55">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmk55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmk55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="langs" />
   </a>
 
   <br/>
@@ -114,6 +115,7 @@ const arda = {
   </a>
 
 </div>
+
 
 
 
