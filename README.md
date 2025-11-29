@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="200" />
   <h1>👋 Merhaba, Ben Arda Irmak!</h1>
   <h3>Backend Developer & Computer Programming Student</h3>
   
   <p>
-    <a href="https://github.com/ardairmk55">
-      <img src="https://komarev.com/ghpvc/?username=ardairmk55&label=Profile%20Views&color=0e75b6&style=flat" alt="oview" />
+    <a href="[https://github.com/ardairmk55](https://github.com/ardairmk55)">
+      <img src="[https://komarev.com/ghpvc/?username=ardairmk55&label=Profile%20Views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=ardairmk55&label=Profile%20Views&color=0e75b6&style=flat)" alt="oview" />
     </a>
   </p>
 </div>
@@ -27,7 +27,7 @@ const arda = {
     currentFocus: "Building Real-time Web Apps & Learning Game Dev",
     motivation: "Turning caffeine into code since 2023 ☕"
 };
-
+```
 <h3 align="center">🚀 Şu An Ne Yapıyorum?</h3>
 
 <p align="center">
