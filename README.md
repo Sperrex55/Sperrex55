@@ -50,10 +50,13 @@ const arda = {
 <h3 align="center">🚀 Şu An Ne Yapıyorum?</h3>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=23D18B&center=true&vCenter=true&width=600&lines=🎓+Gümüşhane+Üniversitesi'nde+Eğitimime+Devam+Ediyorum;🐍+Python+%26+Django+ile+Backend+Sistemler+Geliştiriyorum;⚙️+C%23+ve+.NET+Dünyasında+Kendimi+Geliştiriyorum" alt="Typing SVG" />
-  </a>
+  <p>
+    🎓 <b>Gümüşhane Üniversitesi</b>'nde eğitimime devam ediyorum.<br>
+    🐍 <b>Python & Django</b> ile Backend sistemler geliştiriyorum.<br>
+    ⚙️ <b>C# ve .NET</b> dünyasında kendimi geliştiriyorum.
+  </p>
 </div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600">
