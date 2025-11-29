@@ -95,27 +95,27 @@ const arda = {
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td style="border: none; padding-right: 10px;" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=ardairmk55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=github" alt="Arda's GitHub Stats" />
-      </td>
-      <td style="border: none; padding-left: 10px;" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmk55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Arda's Top Languages" />
-      </td>
-    </tr>
-  </table>
 
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardairmk55&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="Arda's Streak" width="95%" />
+  <a href="https://github.com/ardairmk55">
+    <img src="https://github-readme-stats.vercel.app/api?username=ardairmk55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="stats" />
+  </a>
+  <a href="https://github.com/ardairmk55">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardairmk55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="langs" />
+  </a>
 
-  <br><br>
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardairmk55&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="streak" />
+
+  <br/>
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ardairmk55&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ardairmk55&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="trophy" />
   </a>
 
 </div>
+
+
 
 ---
 
