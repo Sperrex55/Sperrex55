@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTVibXlsOHF4cndwNGw5OGl5bHV0aGZzaW94cWF5eXBraG5oYnZ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1RDs6a5a5qN2RjM2N/giphy.gif" width="200" height="auto" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
   <h1>👋 Merhaba, Ben Arda Irmak!</h1>
 
@@ -25,6 +25,7 @@
   </p>
 </div>
 
+---
 
 
 
